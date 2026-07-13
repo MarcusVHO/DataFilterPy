@@ -1,0 +1,5 @@
+.idea
+.venv
+Dados Brutos
+src/temp/**
+src/input/**
